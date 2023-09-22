@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background:#ffffff url("../imagens/uma-pilha-de-livros-com-a-palavra-the-na-frente\ \(1\).jpg");  
+    background-position: right top;
+    background-size: 50%, 110%;
+    background-repeat: no-repeat;
+
+}
+
+header{
+    display: flex;
+    justify-content: flex-start;
+}
+
+h1{
+    
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 24px;
+    font-weight: 400;
+    color:black;
+
+}
+
+a{ 
+    text-decoration: none;
+    color:black;
+    
+    
+    
+}
+
+button{
+    background: #C21C06;
+}
+
+.link1{
+    text-decoration: underline #C21C06 solid 3px;
+}
+
+h2{
+    
+}
